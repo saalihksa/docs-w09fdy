@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-np7t0i.stillroot.app/sitemap.xml
